@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" // paquete escribir leer salida standard
 
 func suma(a int, b int) int {
 	return a + b
