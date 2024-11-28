@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func condicionales() {
 	var edad int = 22
 	var peso float32 = 70.5
 	//var nombre string = "Juan"
